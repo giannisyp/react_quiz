@@ -205,7 +205,6 @@ function reducer(state, action) {
         index: 0,
         points: 0,
         answer: null,
-        highscore: 0,
         secondsRemaining: 10,
       };
     case "tick":
